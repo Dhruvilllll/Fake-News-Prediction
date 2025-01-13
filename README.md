@@ -19,7 +19,7 @@ This project aims to build a machine learning model to classify news articles as
 
 **3. Model Building and Evaluation:**
 
-* Trained various classification models, including:
+* You can train various classification models, including:
     * Logistic Regression
     * Support Vector Machine (SVM)
     * Random Forest
